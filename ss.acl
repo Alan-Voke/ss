@@ -1,4 +1,5 @@
-  [bypass_all]
+[proxy_all]
+0.0.0.0/0
 ### 默认直连 自己可以自定义
 ### [outbound_block_list] 禁止访问列表
 ### [bypass_list] 直连列表 
