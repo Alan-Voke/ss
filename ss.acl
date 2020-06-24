@@ -1,0 +1,10 @@
+  [bypass_all]
+### 默认直连 自己可以自定义
+### [outbound_block_list] 禁止访问列表
+### [bypass_list] 直连列表 
+### [proxy_list] 代理列表
+
+[bypass_list]
+
+104.18.13.0/24
+210.140.131.0/24
